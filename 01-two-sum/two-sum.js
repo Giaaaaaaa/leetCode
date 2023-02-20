@@ -16,6 +16,8 @@ const target = 9
 //  * @return {number[]}
 //  */
 
+// ---------------- https://www.youtube.com/watch?v=J0U1obg5BEM ---------------
+
 // function twoSum(nums, target) {
 //     const hashMap = {}
 //     for (let i = 0; i < nums.length; i++) {
@@ -41,6 +43,8 @@ const target = 9
 //     }
 // }
 
+
+// ------------- https://www.youtube.com/watch?v=mK1_vjxMfh4 ---------------
 function twoSume(nums, target) {
     const map = new Map()
     for (let i = 0; i < nums.length; i++) {
